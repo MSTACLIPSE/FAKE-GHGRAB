@@ -40,8 +40,8 @@ requests library
 Install
 bash
 # Clone the repository
-git clone https://github.com/MSTACLIPSE/FAKE-GHGRAB.git
-cd FAKE-GHGRAB
+git clone https://github.com/MSTACLIPSE/MSTAGRAB.git
+cd MSTAGRAB
 
 # Install dependency (if not already present)
 pip install requests
