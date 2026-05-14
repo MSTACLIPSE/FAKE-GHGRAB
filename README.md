@@ -89,7 +89,9 @@ Get a token from GitHub Settings → Developer settings → Personal access toke
 
 MSTAGRABBER/
 ├── MSTAGRAB.py         # The entire application (one-file deploy)
+
 ├── README.md           # This file
+
 └── LICENSE             # The License
 # 🧰 Tech Stack
 Python 3 – core logic
