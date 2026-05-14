@@ -88,6 +88,7 @@ Get a token from GitHub Settings → Developer settings → Personal access toke
 # 📁 Project Structure
 
 MSTAGRABBER/
+
 ├── MSTAGRAB.py         # The entire application (one-file deploy)
 
 ├── README.md           # This file
