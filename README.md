@@ -6,7 +6,7 @@
         ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
                                 — grab what you need, leave the rest —
 
-# MSTAGRABBER is a pure GUI tool that lets you browse and download any public GitHub repository’s files with a cyberpunk purple interface. No command-line fu required — just point, click, and grab.
+ MSTAGRABBER is a pure GUI tool that lets you browse and download any public GitHub repository’s files with a cyberpunk purple interface. No command-line fu required — just point, click, and grab.
 
 Built for OSINT researchers, archivers, and anyone who wants to pull a repo’s contents without cloning the whole thing.
 
